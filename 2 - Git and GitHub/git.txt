@@ -47,3 +47,6 @@ git merge [branch_name]
 
 - Delete unused branch after Merging
 git branch -d [branch_name]
+
+- Confirm connection to the remote Repository
+git remote -v 
